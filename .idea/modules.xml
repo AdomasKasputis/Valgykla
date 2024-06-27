@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Valgykla.iml" filepath="$PROJECT_DIR$/.idea/Valgykla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Valgykla/Valgykla.iml" filepath="$PROJECT_DIR$/Valgykla/Valgykla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/valgykla.iml" filepath="$PROJECT_DIR$/.idea/valgykla.iml" />
     </modules>
   </component>
 </project>
